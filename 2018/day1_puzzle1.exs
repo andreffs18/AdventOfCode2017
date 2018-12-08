@@ -1,4 +1,4 @@
-defmodule Day1 do
+defmodule Day1Puzzle1 do
   @doc """
   For example, if the device displays frequency changes of +1, -2, +3, +1, then starting from a frequency of zero, the following changes would occur:
 
@@ -32,4 +32,4 @@ defmodule Day1 do
 end
 
 
-Day1.main()
+Day1Puzzle1.main()

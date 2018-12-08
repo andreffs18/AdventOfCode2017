@@ -1,4 +1,4 @@
-defmodule Day1 do
+defmodule Day1Puzzle2 do
   @doc """
   You notice that the device repeats the same frequency change list over and over. To calibrate the device, you need to find the first frequency it reaches twice.
 
@@ -46,4 +46,4 @@ defmodule Day1 do
 end
 
 
-Day1.main()
+Day1Puzzle2.main()
